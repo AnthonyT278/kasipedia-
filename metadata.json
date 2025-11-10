@@ -1,0 +1,7 @@
+{
+  "name": "Kasipedia",
+  "description": "A modern, dark-mode, AI-generated encyclopedia homepage clone inspired by Wikipedia.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
